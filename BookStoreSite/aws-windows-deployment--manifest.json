@@ -1,0 +1,15 @@
+{
+    "manifestVersion": 1,
+    "deployments": {
+        "aspNetCoreWeb": [
+        {
+            "name": "Book-Store-core",
+            "parameters": {
+                "appBundle": "BookStoreSite.zip",
+                "iisPath": "/",
+                "iisWebSite": "Default Web Site"
+            }
+        }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+/home/fahmy/Programs/BookStoreMySQL/obj/Debug/netcoreapp2.2/BookStoreMySQL.csprojAssemblyReference.cache
+/home/fahmy/Programs/BookStoreMySQL/obj/Debug/netcoreapp2.2/BookStoreMySQL.csproj.CoreCompileInputs.cache
+/home/fahmy/Programs/BookStoreMySQL/obj/Debug/netcoreapp2.2/BookStoreMySQL.RazorAssemblyInfo.cache
+/home/fahmy/Programs/BookStoreMySQL/obj/Debug/netcoreapp2.2/BookStoreMySQL.RazorAssemblyInfo.cs
+/home/fahmy/Programs/BookStoreMySQL/obj/Debug/netcoreapp2.2/BookStoreMySQL.AssemblyInfoInputs.cache
+/home/fahmy/Programs/BookStoreMySQL/obj/Debug/netcoreapp2.2/BookStoreMySQL.AssemblyInfo.cs
+/home/fahmy/Programs/BookStoreMySQL/bin/Debug/netcoreapp2.2/BookStoreMySQL.deps.json
+/home/fahmy/Programs/BookStoreMySQL/bin/Debug/netcoreapp2.2/BookStoreMySQL.runtimeconfig.json
+/home/fahmy/Programs/BookStoreMySQL/bin/Debug/netcoreapp2.2/BookStoreMySQL.runtimeconfig.dev.json
+/home/fahmy/Programs/BookStoreMySQL/bin/Debug/netcoreapp2.2/BookStoreMySQL.dll
+/home/fahmy/Programs/BookStoreMySQL/bin/Debug/netcoreapp2.2/BookStoreMySQL.pdb
+/home/fahmy/Programs/BookStoreMySQL/obj/Debug/netcoreapp2.2/BookStoreMySQL.RazorTargetAssemblyInfo.cache
+/home/fahmy/Programs/BookStoreMySQL/obj/Debug/netcoreapp2.2/BookStoreMySQL.dll
+/home/fahmy/Programs/BookStoreMySQL/obj/Debug/netcoreapp2.2/BookStoreMySQL.pdb
